@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-hall-magnetic",
+  "title": "hall-magnetic",
+  "keywords": "hall-magnetic, esp32, esp8266, arduino",
+  "description": "hall-magnetic plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-hall-magnetic/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-hall-magnetic/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
