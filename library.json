@@ -1,17 +1,17 @@
 {
   "name" : "kbide-plugin-hall-magnetic",
-  "title": "hall-magnetic",
+  "title": "KY-003 HALL MAGNETIC SENSOR MODULE",
   "keywords": "hall-magnetic, esp32, esp8266, arduino",
   "description": "hall-magnetic plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-hall-magnetic/",
-  "author": "cmmakerclub",
+  "author": "Apinun",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-hall-magnetic/",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }
